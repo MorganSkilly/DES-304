@@ -1259,18 +1259,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 935778136, guid: 3ca5f9e48dce83a4bbaff3d1f56d5b02, type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 935778141, guid: 3ca5f9e48dce83a4bbaff3d1f56d5b02, type: 3}
       propertyPath: destin
       value: 
       objectReference: {fileID: 1409392131}
-    - target: {fileID: 935778141, guid: 3ca5f9e48dce83a4bbaff3d1f56d5b02, type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1878035103637634152, guid: 3ca5f9e48dce83a4bbaff3d1f56d5b02, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -1318,10 +1310,6 @@ PrefabInstance:
     - target: {fileID: 1878035103637634155, guid: 3ca5f9e48dce83a4bbaff3d1f56d5b02, type: 3}
       propertyPath: m_Name
       value: Enemy Instance
-      objectReference: {fileID: 0}
-    - target: {fileID: 5130886847095343741, guid: 3ca5f9e48dce83a4bbaff3d1f56d5b02, type: 3}
-      propertyPath: animState
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3ca5f9e48dce83a4bbaff3d1f56d5b02, type: 3}
